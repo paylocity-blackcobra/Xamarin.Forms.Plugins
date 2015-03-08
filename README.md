@@ -5,6 +5,8 @@
 This is my main repo for all Xamarin Forms Plugins that I have or will be publishing. These PCL plugins will allow you to add rich cross platform functionality to Xamarin.Forms.
 
 # Current Plugins for Xamarin Forms
+Generators:
+* **[UITest StyleId Generator](https://github.com/paulpatarinski/Xamarin.Forms.Plugins/tree/master/StyleIdGenerator)** for Xamarin.Forms
 
 Controls:
 * **[SVG](https://github.com/paulpatarinski/Xamarin.Forms.Plugins/tree/master/SVG)** for Xamarin.Forms
